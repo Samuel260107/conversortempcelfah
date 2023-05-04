@@ -9,7 +9,7 @@ public class Conversortempcelfah {
 		//Criação e instância do objeto de entrada
 		Scanner entrada = new Scanner(System.in);
 
-        do{
+        do{ 
 
             System.out.println("\n\t\t\t -- Calculadora Cel e Fah --\n");
             System.out.println("1. Cel para Fah");
