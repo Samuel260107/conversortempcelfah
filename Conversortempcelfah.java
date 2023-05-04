@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Conversortempcelfah {
 	public static void main(String[] args) {
+		//Pedro
 		//Declaração de variáveis
 		Double fah, cel, op;
 		
