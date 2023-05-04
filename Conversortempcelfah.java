@@ -1,6 +1,7 @@
 
 public class Conversortempcelfah {
 	public static void main(String[] args) {
+		//Pedro
 		//Declaração de variáveis
 		double fah, cel;
 		
