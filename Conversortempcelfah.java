@@ -21,13 +21,6 @@ public class Conversortempcelfah {
 		System.out.println("\n\n" + "Cel: " + cel + " = " + "Fah: " + fah);
 		
 		
-		
-	
-		
-		
-		
-		
-		
 	}
 
 }
